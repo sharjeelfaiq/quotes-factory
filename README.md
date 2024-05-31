@@ -18,16 +18,10 @@ yarn add quotes-factory
 
 ### Usage
 
-Import the entire quotes-factory library:
+Import the quotes-factory library:
 
 ```javascript
-const numberPro = require("quotes-factory");
-```
-
-or import specific functions:
-
-```javascript
-const { unixToDate, romanToDecimal } = require("quotes-factory");
+const quotes = require("quotes-factory");
 ```
 
 ### Available Functions

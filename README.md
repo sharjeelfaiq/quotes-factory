@@ -2,6 +2,8 @@
 
 quotes-factory is a versatile JavaScript package that provides a comprehensive set of quotes to let you choose the best one for your project.
 
+Visit the documentation at --> https://quotes-factory-documentation.netlify.app/
+
 ### Installation
 
 Install quotes-factory using npm, pnpm or yarn:

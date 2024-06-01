@@ -1,6 +1,6 @@
 {
   "name": "quotes-factory",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "quotes-factory is a versatile JavaScript package that provides a comprehensive set of quotes to let you choose the best one for your project.",
   "main": "index.js",
   "scripts": {

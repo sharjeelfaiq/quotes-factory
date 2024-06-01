@@ -28,11 +28,11 @@ const quotesFactory = require("quotes-factory");
 import quotesFactory from "quotes-factory";
 ```
 
-### Available Functions
+### Available Function
 
-quotes-factory offers a wide range of functions for various string manipulation tasks. Here's a brief description of each function:
+quotes-factory offers a wide range of random quotes. Here's how to access them:
 
-- **getQuote()**: Always provides you with a new random quote that you're definitely going to love.
+- **quotesFactory()**: Always provides you with a new random quote that you're definitely going to love.
 
 Get complete quote object
 

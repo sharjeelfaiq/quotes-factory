@@ -24,28 +24,33 @@ Import the quotes-factory library:
 
 ```javascript
 // ES5 Import
-const quotesFactory = require("quotes-factory");
+const getQuotes = require("quotes-factory");
 
 // ES6 Import
-import quotesFactory from "quotes-factory";
+import getQuotes from "quotes-factory";
 ```
 
 ### Available Function
 
 quotes-factory offers a wide range of random quotes. Here's how to access them:
 
-- **quotesFactory()**: Always provides you with a new random quote that you're definitely going to love.
+- **getQuotes()**: Always provides you with a new random quote that you're definitely going to love.
 
 Get complete quote object
 
 ```javascript
-const getQuote = quotesFactory();
-console.log(getQuote);
-// {
-//   quote: 'We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.',
-//   author: 'Plato'
-// }
+const statement = getQuotes().statement;
+const author = getQuotes().author;
+
+const quote = `${statement}\n${author}`;
+
+console.log(quote);
+
+// I didn’t fail the test. I just found 100 ways to do it wrong.
+// Mark Twain
 ```
+
+Explore rest of the quotes by installing and utilizing this amazing libraray.
 
 ### Supoort
 

@@ -480,8 +480,233 @@ const getQuote = () => {
       statement: "If you can dream it, you can achieve it.",
       author: "Zig Ziglar",
     },
+    {
+      statement:
+        "To live is the rarest thing in the world. Most people exist, that is all.",
+      author: "Oscar Wilde",
+    },
+    {
+      statement: "That it will never come again is what makes life so sweet.",
+      author: "Emily Dickinson",
+    },
+    {
+      statement:
+        "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment",
+      author: "Ralph Waldo Emerson",
+    },
+    {
+      statement: "Pain is inevitable. Suffering is optional.",
+      author: "Haruki Murakami",
+    },
+    {
+      statement:
+        "All the world's a stage, and all the men and women merely players.",
+      author: "William Shakespeare",
+    },
+    {
+      statement: "Be kind, for everyone you meet is fighting a hard battle.",
+      author: "Plato",
+    },
+    {
+      statement: "Unable are the loved to die for love is immortality.",
+      author: "Emily Dickinson",
+    },
+    {
+      statement: "Let me live, love, and say it well in good sentences.",
+      author: "Sylvia Plath",
+    },
+    {
+      statement: "Don't let your happiness depend on something you may lose.",
+      author: "C.S. Lewis",
+    },
+    {
+      statement: "We are all broken, that's how the light gets in.",
+      author: "Ernest Hemingway",
+    },
+    {
+      statement:
+        "Appreciation is a wonderful thing. It makes what is excellent in others belong to us as well.",
+      author: "Voltaire",
+    },
+    {
+      statement: "Life is tough my darling, but so are you.",
+      author: "Stephanie Bennett Henry",
+    },
+    {
+      statement:
+        "Self-awareness and self-love matter. Who we are is how we lead.",
+      author: "Brene Brown",
+    },
+    {
+      statement:
+        "Amateurs sit and wait for inspiration, the rest of us just get up and go to work.",
+      author: "Stephen King",
+    },
+    {
+      statement:
+        "Get it down. Take chances. It may be bad, but it's the only way you can do anything really good.",
+      author: "William Faulkner",
+    },
+    {
+      statement: "As a writer, you should not judge, you should understand.",
+      author: "Ernest Hemingway",
+    },
+    {
+      statement: "To produce a mighty book, you must choose a mighty theme.",
+      author: "Herman Melville",
+    },
+    {
+      statement:
+        "Ideas are like rabbits. You get a couple and learn how to handle them, and pretty soon you have a dozen.",
+      author: "John Steinbeck",
+    },
+    {
+      statement:
+        "Sometimes, you read a book and it fills you with this weird evangelical zeal, and you become convinced that the shattered world will never be put back together unless and until all living humans read the book.",
+      author: "John Green",
+    },
+    {
+      statement:
+        "The Six Golden Rules of Writing: Read, read, read, and write, write, write.",
+      author: "Ernest Gaines",
+    },
+    {
+      statement:
+        "As for ‘Write what you know,' I was regularly told this as a beginner. I think it's a very good rule and have always obeyed it. I write about imaginary countries, alien societies on other planets, dragons, wizards, the Napa Valley in 22002. I know these things. I know them better than anybody else possibly could, so it's my duty to testify about them.",
+      author: "Ursula K. Le Guin",
+    },
+    {
+      statement:
+        "You should write because you love the shape of stories and sentences and the creation of different words on a page. Writing comes from reading, and reading is the finest teacher of how to write.",
+      author: "Annie Proulx",
+    },
+    {
+      statement:
+        "Find out the reason that commands you to write; see whether it has spread its roots into the very depth of your heart; confess to yourself you would have to die if you were forbidden to write.",
+      author: "Rainer Maria Rilke",
+    },
+    {
+      statement:
+        "The purpose of a writer is to keep civilization from destroying itself.",
+      author: "Albert Camus",
+    },
+    {
+      statement:
+        "A writer never has a vacation. For a writer life consists of either writing or thinking about writing.",
+      author: "Eugene Ionesco",
+    },
+    {
+      statement:
+        "Read, read, read. Read everything – trash, classics, good and bad, and see how they do it. Just like a carpenter who works as an apprentice and studies the master. Read! You'll absorb it. Then write. If it's good, you'll find out. If it's not, throw it out of the window.",
+      author: "William Faulkner",
+    },
+    {
+      statement:
+        "A good writer possesses not only his own spirit but also the spirit of his friends.",
+      author: "Friedrich Nietzsche",
+    },
+    {
+      statement:
+        "Your writing voice is the deepest possible reflection of who you are. The job of your voice is not to seduce or flatter or make well-shaped sentences. In your voice, your readers should be able to hear the contents of your mind, your heart, your soul.",
+      author: "Meg Rosoff",
+    },
+    {
+      statement:
+        "I am not at all in a humour for writing; I must write on until I am.",
+      author: "Jane Austen",
+    },
+    {
+      statement:
+        "You don't start out writing good stuff. You start out writing crap and thinking it's good stuff, and then gradually you get better at it. That's why I say one of the most valuable traits is persistence.",
+      author: "Octavia E. Butler",
+    },
+    {
+      statement: "You can always edit a bad page. You can't edit a blank page.",
+      author: "Jodi Picoult",
+    },
+    {
+      statement:
+        "Do not hoard what seems good for a later place in the book, or for another book; give it, give it all, give it now.",
+      author: "Annie Dillard",
+    },
+    {
+      statement:
+        "If there's a book that you want to read, but it hasn't been written yet, then you must write it.",
+      author: "Toni Morrison",
+    },
+    {
+      statement: "Tears are words that need to be written.",
+      author: "Paulo Coelho",
+    },
+    {
+      statement: "You cannot find peace by avoiding life.",
+      author: "Virginia Woolf",
+    },
+    {
+      statement: "The strongest principle of growth lies in the human choice.",
+      author: "George Eliot",
+    },
+    {
+      statement:
+        "Focus more on your desire than on your doubt, and the dream will take care of itself.",
+      author: "Mark Twain",
+    },
+    {
+      statement:
+        "We have to continually be jumping off cliffs and developing our wings on the way down.",
+      author: "Kurt Vonnegut",
+    },
+    {
+      statement:
+        "I hope that in this year to come, you make mistakes. Because if you are making mistakes, then you are making new things, trying new things, learning, living, pushing yourself, changing yourself, changing your world. You're doing things you've never done before, and more importantly, you're doing something.",
+      author: "Neil Gaiman",
+    },
+    {
+      statement:
+        "Don't bend; don't water it down; don't try to make it logical; don't edit your own soul according to the fashion. Rather, follow your most intense obsessions mercilessly.",
+      author: "Franz Kafkas",
+    },
+    {
+      statement:
+        "Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.",
+      author: "Mark Twain",
+    },
+    {
+      statement:
+        "Maybe it's not about having a beautiful day, but about finding beautiful moments. Maybe a whole day is just too much to ask. I could choose to believe that in every day, in all things, no matter how dark and ugly, there are shards of beauty if I look for them.",
+      author: "Anna White",
+    },
+    {
+      statement:
+        "Trust our heart if the seas catch fire, live by love though the stars walk backwards.",
+      author: "E. E. Cummings",
+    },
+    {
+      statement:
+        "One day I will find the right words, and they will be simple.",
+      author: "Jack Kerouac",
+    },
+    {
+      statement:
+        "I can be changed by what happens to me. But I refuse to be reduced by it.",
+      author: "Maya Angelou",
+    },
+    {
+      statement:
+        "I want to taste and glory in each day, and never be afraid to experience pain.",
+      author: "Sylvia Plath",
+    },
+    {
+      statement: "If I waited for perfection, I would never write a word.",
+      author: "Margaret Atwood",
+    },
+    {
+      statement:
+        "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      author: "Aristotle",
+    },
   ];
-  const quoteIndex = Math.floor(Math.random() * 100 + 2);
+  const quoteIndex = Math.floor(Math.random() * 100 + 50);
   const randomQuote = quotes[quoteIndex];
   return randomQuote;
 };

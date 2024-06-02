@@ -9,15 +9,15 @@ quotes-factory is a versatile JavaScript package that provides a comprehensive s
 Install quotes-factory using npm, pnpm or yarn:
 
 ```bash
-npm install quotes-factory
+npm install quotes-factory --save-dev
 ```
 
 ```bash
-pnpm install quotes-factory
+pnpm install quotes-factory -D
 ```
 
 ```bash
-yarn add quotes-factory
+yarn add quotes-factory -D
 ```
 
 ### Usage

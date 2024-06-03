@@ -720,10 +720,8 @@ const quotes: Quote[] = [
  * Retrieves quotes from the quotes array.
  * @returns {Quote} The randomly selected quote.
  */
-const getQuote = (): Quote => {
+export const getQuote = (): Quote => {
   const quoteIndex = Math.floor(Math.random() * 100 + 50);
   const randomQuote = quotes[quoteIndex];
   return randomQuote;
 };
-
-module.exports = getQuote;
